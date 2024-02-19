@@ -17,6 +17,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/RemoteControl.msg"
   "msg/BucketControl.msg"
   "msg/DriveControl.msg"
+  "msg/DanfossFB.msg"
   DEPENDENCIES std_msgs
 )
 

@@ -1,0 +1,9 @@
+std_msgs/Header header
+uint16 boom_dn_current
+uint16 boom_up_current
+uint16 bucket_in_current
+uint16 bucket_out_current
+float32 boom_dn_c_p
+float32 boom_up_c_p
+float32 bucket_in_c_p
+float32 bucket_out_c_p
