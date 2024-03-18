@@ -1,4 +1,3 @@
-std_msgs/Header header
 int16 boom_dn_current
 int16 boom_up_current
 int16 bucket_in_current

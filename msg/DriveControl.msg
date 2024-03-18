@@ -1,4 +1,3 @@
-std_msgs/Header header
 bool e_stop True
 bool mode_manual True
 bool mode_auto False
