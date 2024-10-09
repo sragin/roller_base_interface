@@ -1,4 +1,3 @@
-uint8 power 0
 uint8 accel 0
 uint8 brake 0
 uint8 fnr 0
